@@ -10,7 +10,7 @@ Sl .no apparatus range type quantity
 3 Ammeter (0-5)A MC 1
 4 Rheostat 800Ω/1.5A Wire wouned 1
 5 Rheostat 1000Ω/1.5 A Wire wouned 1
-6 Connecting wires - - As required
+6 Connecting wires - - As required.
 
 Load test
 125 % of rated current (full load current)
